@@ -241,3 +241,4 @@ class Clicker {
 }
 
 const clicker = new Clicker();
+clicker.simulateClickSeries();
